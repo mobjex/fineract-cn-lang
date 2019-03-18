@@ -49,7 +49,7 @@ ext {
     changesetId = grgit.head().id
 }
 
-group 'org.apache.fineract.cn'
+group 'com.github.mobjex'
 version '0.1.0-BUILD-SNAPSHOT'
 
 tasks.withType(JavaCompile) {
