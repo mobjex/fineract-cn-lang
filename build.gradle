@@ -49,8 +49,8 @@ ext {
     changesetId = grgit.head().id
 }
 
-group 'com.github.mobjex'
-version '0.1.0-BUILD-SNAPSHOT'
+group 'net.mobjex.fineract.cn'
+version 'develop-SNAPSHOT'
 
 tasks.withType(JavaCompile) {
     sourceCompatibility = JavaVersion.VERSION_1_8
