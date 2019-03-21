@@ -1,3 +1,5 @@
+[![Release](https://jitpack.io/v/mobjex/fineract-cn-lang.svg)](https://jitpack.io/#mobjex/fineract-cn-lang)
+
 # Apache Fineract CN Lang
 
 ## Abstract
